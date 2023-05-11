@@ -1,0 +1,212 @@
+[
+    {
+        "id": "Nike blazer",
+        "titulo": "Nike blazer",
+        "imagen": "./img/blazer.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike blazer2",
+        "titulo": "Nike blazer2",
+        "imagen": "./img/blazer2.png",
+        "categoria": {
+            "nombre": "zapatilas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike air force",
+        "titulo": "Nike air force",
+        "imagen": "./img/air.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike crater",
+        "titulo": "Nike crater",
+        "imagen": "./img/crater.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Niker crater",
+        "titulo": "Nike crater2",
+        "imagen": "./img/crater2.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike hippie",
+        "titulo": "Nike hippie",
+        "imagen": "./img/hippie.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike hippie2",
+        "titulo": "Nike hippie2",
+        "imagen": "./img/hippie2.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Nike air jordan",
+        "titulo": "Nike air jordan",
+        "imagen": "./img/jordan.png",
+        "categoria": {
+            "nombre": "zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Camiseta",
+        "titulo": "Camiseta",
+        "imagen": "./img/camiseta nike blanca.jpg ",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta",
+        "titulo": "Camiseta",
+        "imagen": "./img/camiseta nike roja.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta",
+        "titulo": "Camiseta",
+        "imagen": "./img/camiseta nike blanca rayada.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta 04",
+        "imagen": "./img/camiseta nike negra.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta 05",
+        "imagen": "./img/camiseta nike blanca2.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta 06",
+        "imagen": "./img/camiseta nike negra y blanco.jpg.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta 07",
+        "imagen": "./img/camiseta nike verde2.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta 08",
+        "imagen": "./img/camiset anike azul.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./img/pantalon nike negro.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./img/pantalon nike 2.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/pantalon nike 3.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/pantalon nike 3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/pantalon nike 4.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
